@@ -45,6 +45,31 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
+
+
+/* Scrollbar Style */
+
+body::-webkit-scrollbar {
+  width: 20px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(172, 171, 171);        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: black;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid white;  /* creates padding around scroll thumb */
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(63, 62, 62);
+  
+}
+
+/* css general */
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
