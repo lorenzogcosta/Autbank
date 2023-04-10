@@ -1,0 +1,78 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Apr 2023 08:25:44 at http://www.autbank.com.br +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" -Y http://www.autbank.com.br -O1 "C:\Users\user\Documents\clone-autbank" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:25:44	Warning: 	Note: due to www.autbank.com.br remote robots.txt rules, links beginning with these path will be forbidden: /oportunidades.htm, /dda.htm, /empresa.htm, /gestaocontratos.htm, /ncr.htm, /gestaocontratos.htm, /centralatendimento.htm, /basileia.htm, /classificadorrisco.htm, /faleconosco.htm, /ifrs.htm, /produtos.htm, /resolucao3380.htm, /resolucao3998.htm, /taxasmedias.htm, /areasatuacao.htm, /comunicados.htm, /e-financeira.htm, /mpsbr.htm, /cartacircular_BC3454_140610.htm (see in the options to disable this)
+08:26:30	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from www.autbank.com.br/)
+08:26:31	Warning: 	Moved Permanently for s.w.org/robots.txt
+08:26:31	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+08:26:31	Warning: 	Moved Permanently for s.w.org/
+08:26:31	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+08:27:15	Warning: 	Retry after error 500 (Internal Server Error) at link www.autbank.com.br/xmlrpc0db0.php?rsd (from www.autbank.com.br/)
+08:27:15	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed9c52?url=%2Fwordpress%2F&format=xml (from www.autbank.com.br/)
+08:28:03	Error: 	"Unauthorized" (401) at link download.autbank.com.br/comunicados/area-clientes.html (from www.autbank.com.br/)
+08:28:04	Warning: 	File not parsed, looks like binary: https://autbank.gupy.io/robots.txt
+08:28:54	Warning: 	File not parsed, looks like binary: www.autbank.com.br/wp-content/themes/enliven/assets/font-awesome/fonts/fontawesome-webfont5b62.html?v=4.6.3
+08:28:54	Warning: 	Warning: store application/octet-stream without scan: C:/Users/user/Documents/clone-autbank/www.autbank.com.br/wp-content/themes/enliven/assets/font-awesome/fonts/fontawesome-webfont5b625b62.html
+08:28:54	Warning: 	Retry after error 500 () at link www.autbank.com.br/xmlrpc0db0.php?rsd (from www.autbank.com.br/)
+08:28:54	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed3014?url=%2Fwordpress%2Fquem-somos%2F&format=xml (from www.autbank.com.br/quem-somos/index.html)
+08:28:54	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedfa5c?url=%2Fwordpress%2Fsolucoes%2F&format=xml (from www.autbank.com.br/solucoes/index.html)
+08:34:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://try.abtasty.com/82670607f96b5c94cd6b17c92208ea3a.js
+08:34:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://cdn.privacytools.com.br/public_api/banner/script/bottom/xzzn613181.js
+08:34:07	Error: 	"Not Found" (404) at link https://autbank.gupy.io/statics/assets/favicon/favicon.ico (from https://autbank.gupy.io/)
+08:34:27	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed89ae?url=%2Fwordpress%2Fpsti%2F&format=xml (from www.autbank.com.br/psti/index.html)
+08:34:27	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedb196?url=%2Fwordpress%2Frecebiveis-de-cartoes%2F&format=xml (from www.autbank.com.br/recebiveis-de-cartoes/index.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/xmlrpc.php (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/feed/ (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/comments/feed/ (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/plugins/breadcrumb/assets/front/css/style.css?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/assets/bootstrap/css/bootstrap.css?ver=3.3.5 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/assets/font-awesome/css/font-awesome.min.css?ver=4.6.3 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/style.css?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/assets/flexslider/flexslider.css?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-json/ (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/xmlrpc.php?rsd (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-includes/wlwmanifest.xml (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/ (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Warning: 	Retry after error -4 (Connect Error) at link 140.0.252.134/wordpress/wp-content/uploads/2016/09/logo-branco-01.png (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/quem-somos/ (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/solucoes/ (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/js/skip-link-focus-fix.js?ver=20130115 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/js/scrollreveal.min.js?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/js/scripts.js?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/assets/flexslider/jquery.flexslider-min.js?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/assets/flexslider/flex-custom.js?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-content/themes/enliven/js/navigation.js?ver=20120206 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wordpress/wp-includes/js/wp-embed.min.js?ver=4.6.1 (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:34:33	Error: 	"" (500) after 2 retries at link www.autbank.com.br/xmlrpc0db0.php?rsd (from www.autbank.com.br/)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedeaea?url=%2Fwordpress%2Fsolucoes%2Fcontas-correntes-e-recebiveis%2F&format=xml (from www.autbank.com.br/solucoes/contas-correntes-e-recebiveis/index.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed826d?url=%2Fwordpress%2Fsolucoes%2Finvestimentos-e-captacoes%2F&format=xml (from www.autbank.com.br/solucoes/investimentos-e-captacoes/index.html)
+08:34:33	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed0dfd?url=%2Fwordpress%2Fsolucoes%2Femprestimos-e-financiamentos%2F&format=xml (from www.autbank.com.br/solucoes/emprestimos-e-financiamentos/index.html)
+08:35:40	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedab9e?url=%2Fwordpress%2Fsolucoes%2Fcontroladoria%2F&format=xml (from www.autbank.com.br/solucoes/controladoria/index.html)
+08:36:18	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed9430?url=%2Fwordpress%2Fsolucoes%2Frecebiveis%2F&format=xml (from www.autbank.com.br/solucoes/recebiveis/index.html)
+08:36:18	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed1de7?url=%2Fwordpress%2Fsolucoes%2Friscos-e-compliance%2F&format=xml (from www.autbank.com.br/solucoes/riscos-e-compliance/index.html)
+08:36:19	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed3615?url=%2Fwordpress%2Fsolucoes%2Fcadastro-corporativo%2F&format=xml (from www.autbank.com.br/solucoes/cadastro-corporativo/index.html)
+08:36:19	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedea0e?url=%2Fwordpress%2Fsolucoes%2Fcanais-de-atendimento%2F&format=xml (from www.autbank.com.br/solucoes/canais-de-atendimento/index.html)
+08:36:19	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed100c?url=%2Fwordpress%2Fsolucoes%2Fspb-e-financeiros%2F&format=xml (from www.autbank.com.br/solucoes/spb-e-financeiros/index.html)
+08:36:19	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js (from https://cdn.cookielaw.org/consent/4528aece-e0d6-41e5-a351-00f60c07689d/OtAutoBlock.js)
+08:36:19	Error: 	"Forbidden" (403) at link https://app.getbeamer.com/js/beamer-embed.js (from https://cdn.cookielaw.org/consent/4528aece-e0d6-41e5-a351-00f60c07689d/OtAutoBlock.js)
+08:36:19	Error: 	"Not Found" (404) at link https://web-socket-destaca.herokuapp.com/socket.io/socket.io.js (from https://cdn.cookielaw.org/consent/4528aece-e0d6-41e5-a351-00f60c07689d/OtAutoBlock.js)
+08:36:22	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link junk.metafilter.com/xfn.gif (from gmpg.org/xfn/more)
+08:36:22	Warning: 	Retry after error -4 (Connect Error) at link 140.0.252.134/wordpress/wp-content/uploads/2016/09/logo-branco-01.png (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:36:23	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed0793?url=%2Fwordpress%2Fsolucoes%2Femprestimos-e-financiamentos%2Fgestao-e-apoio-ao-credito%2F&format=xml (from www.autbank.com.br/solucoes/emprestimos-e-financiamentos/gestao-e-apoio-ao-credito/index.html)
+08:36:23	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedfc90?url=%2Fwordpress%2Fsolucoes%2Fcontroladoria%2Fregulatoriofiscal%2F&format=xml (from www.autbank.com.br/solucoes/controladoria/regulatoriofiscal/index.html)
+08:37:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link junk.metafilter.com/xfn.gif (from gmpg.org/xfn/more)
+08:37:41	Error: 	"Connect Error" (-4) after 2 retries at link 140.0.252.134/wordpress/wp-content/uploads/2016/09/logo-branco-01.png (from www.autbank.com.br/wp-content/themes/enliven/assets/bootstrap/fonts/glyphicons-halflings-regular.html)
+08:37:41	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embed5fb1?url=%2Fwordpress%2Fsolucoes%2Friscos-e-compliance%2Fcompliance-e-controles-internos%2F&format=xml (from www.autbank.com.br/solucoes/riscos-e-compliance/compliance-e-controles-internos/index.html)
+08:37:41	Error: 	"Not Found" (404) at link www.autbank.com.br/wp-json/oembed/1.0/embedcd9e?url=%2Fwordpress%2Fsolucoes%2Fcadastro-corporativo%2Fregulatorios-de-cadastro%2F&format=xml (from www.autbank.com.br/solucoes/cadastro-corporativo/regulatorios-de-cadastro/index.html)
+08:37:49	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link junk.metafilter.com/xfn.gif (from gmpg.org/xfn/more)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 5 seconds : 393 links scanned, 328 files written (31896733 bytes overall) [21626408 bytes received at 29829 bytes/sec], 14597582 bytes transferred using HTTP compression in 93 files, ratio 27%, 1.2 requests per connection
+(51 errors, 16 warnings, 0 messages)
